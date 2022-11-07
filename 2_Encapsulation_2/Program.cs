@@ -12,7 +12,13 @@
         {
 
 
-            Console.WriteLine("Hello, World!");
+            Ogrenci ogr = new Ogrenci();
+            ogr.adsoyad = "Umut";
+            ogr.yas = 13;
+
+            Console.WriteLine($"{ogr.yas}");
+
+                
         }
     }
 }
