@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _3_Constructor_Encapsulate
 {
-    internal class Ogrenci
+    public class Ogrenci
     {
         public Ogrenci(float v, float f)
         {
@@ -22,6 +22,7 @@ namespace _3_Constructor_Encapsulate
 
         public float Ortalama { get; }
 
+        
         public string HarfNotu
         {
             get
@@ -37,9 +38,18 @@ namespace _3_Constructor_Encapsulate
 
 
                 };
+
+              
+
+
             }
+
+
         }
 
+        ~Ogrenci()
+        {
 
+        }
     }
 }
