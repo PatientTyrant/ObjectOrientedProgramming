@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_Encapsulation_2", "2_Enca
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_Encapsulation_3", "2_Encapsulation_3\2_Encapsulation_3.csproj", "{C8BCED81-B12C-4B5F-ABDE-7F62704BF777}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Constructor", "3_Constructor\3_Constructor.csproj", "{73A1AF9B-1895-4988-BBD6-7D1596C7245A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_Constructor", "3_Constructor\3_Constructor.csproj", "{73A1AF9B-1895-4988-BBD6-7D1596C7245A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Constructor_Encapsulate", "3_Constructor_Encapsulate\3_Constructor_Encapsulate.csproj", "{267A528A-1616-4B3B-9B9F-8221EFCABA69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_Constructor_Encapsulate", "3_Constructor_Encapsulate\3_Constructor_Encapsulate.csproj", "{267A528A-1616-4B3B-9B9F-8221EFCABA69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Inheritance_1", "4_Inheritance_1\4_Inheritance_1.csproj", "{AB263616-6462-4DA5-B0C6-60F74086824E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{267A528A-1616-4B3B-9B9F-8221EFCABA69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{267A528A-1616-4B3B-9B9F-8221EFCABA69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{267A528A-1616-4B3B-9B9F-8221EFCABA69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB263616-6462-4DA5-B0C6-60F74086824E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB263616-6462-4DA5-B0C6-60F74086824E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB263616-6462-4DA5-B0C6-60F74086824E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB263616-6462-4DA5-B0C6-60F74086824E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
